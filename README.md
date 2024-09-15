@@ -15,3 +15,4 @@
 ### Optimizing JAVA(자바최적화)
 ![image](https://github.com/JHPrk/HelloWorldie/assets/23393661/a3a8e4a5-20d8-4ab7-b6f5-0b4d6bb755c2)
 - [자바의 성능에 대해서](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Basics.md)
+- [JVM 이야기](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Virtual%20Machine.md)
