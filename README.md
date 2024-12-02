@@ -18,5 +18,6 @@
 - [JVM 이야기](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Virtual%20Machine.md)
 
 ## Algorithm
-- [Dynamic Programming](https://github.com/JHPrk/HelloWorldie/blob/main/Alogorithm/Dynamic%20Programming.md)
+- [Dynamic Programming](https://github.com/JHPrk/HelloWorldie/blob/main/Algorithm/Dynamic%20Programming.md)
+
 
