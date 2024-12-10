@@ -17,4 +17,6 @@
 
 ## AWS
 - [Global Infrastructure](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/Global%20Infrastructure.md)
+- [IAM](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/IAM.md)
+
 
