@@ -11,6 +11,7 @@
 ### Optimizing JAVA(자바최적화)
 - [자바의 성능에 대해서](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Basics.md)
 - [JVM 이야기](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Virtual%20Machine.md)
+- [하드웨어와 운영체제](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Hardware%20and%20OS.md)
 
 ## Algorithm
 - [Dynamic Programming](https://github.com/JHPrk/HelloWorldie/blob/main/Algorithm/Dynamic%20Programming.md)
