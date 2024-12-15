@@ -22,4 +22,6 @@
 - [Global Infrastructure](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/Global%20Infrastructure.md)
 - [IAM](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/IAM.md)
 
+## Utils
+- [서버 개발자 용어 사전](https://github.com/JHPrk/HelloWorldie/blob/main/Utils/Developer%20Dictionary.md)
 
