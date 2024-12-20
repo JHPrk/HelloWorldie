@@ -13,7 +13,7 @@
 - [JVM 이야기](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Java%20Virtual%20Machine.md)
 - [하드웨어와 운영체제](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Hardware%20and%20OS.md)
 - [성능테스트 및 안티패턴](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Performance%20test%20anti-pattern.md)
-- [마이크로벤치마킹과 통계](https://github.com/JHPrk/HelloWorldie/blob/main/Java/Microbenchmark%20and%20Stats.md)
+- [마이크로벤치마킹과 통계](https://github.com/JHPrk/HelloWorldie/blob/main/JAVA/Microbenchmark%20and%20Stats.md)
 
 ## Algorithm
 - [Dynamic Programming](https://github.com/JHPrk/HelloWorldie/blob/main/Algorithm/Dynamic%20Programming.md)
@@ -21,6 +21,9 @@
 ## AWS
 - [Global Infrastructure](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/Global%20Infrastructure.md)
 - [IAM](https://github.com/JHPrk/HelloWorldie/blob/main/AWS/IAM.md)
+
+## Kafka
+- [Kafka 개념 정리 1편](https://github.com/JHPrk/HelloWorldie/blob/main/Kafka/Kafka%20Basics1.md)
 
 ## Utils
 - [서버 개발자 용어 사전](https://github.com/JHPrk/HelloWorldie/blob/main/Utils/Developer%20Dictionary.md)
