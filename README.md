@@ -24,6 +24,7 @@
 
 ## Kafka
 - [Kafka 개념 정리 1편](https://github.com/JHPrk/HelloWorldie/blob/main/Kafka/Kafka%20Basics1.md)
+- [Kafka 개념 정리 2편](https://github.com/JHPrk/HelloWorldie/blob/main/Kafka/Kafka%20Basics2.md)
 
 ## Utils
 - [서버 개발자 용어 사전](https://github.com/JHPrk/HelloWorldie/blob/main/Utils/Developer%20Dictionary.md)
