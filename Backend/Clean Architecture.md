@@ -1,5 +1,3 @@
-# Microservices: Clean Architecture, DDD, SAGA, Outbox & Kafka
-
 # Clean Architecture란?
 
 ![image.png](Clean%20Architecture/image.png)
